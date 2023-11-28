@@ -29,6 +29,7 @@ def show_shortcuts():
     - Schnelle Vorschläge anzeigen: Ctrl + Space
     - Definition anzeigen: F12
     """
+    
 
     root = tk.Tk()
     root.title("VS Code Tastenkürzel")
